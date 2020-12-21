@@ -1,0 +1,2 @@
+# soldat
+dayz
